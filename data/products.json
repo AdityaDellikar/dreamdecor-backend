@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Sunburst Metal Wall Art, Sunrise Home Decor | Sunshine Boho Metal Wall Decor",
+    "price": 3999,
+    "currency": "INR",
+    "images": [
+      "/assets/products/sunburst/sb-1.jpg",
+      "/assets/products/sunburst/sb-2.jpg",
+      "/assets/products/sunburst/sb-3.jpg",
+      "/assets/products/sunburst/sb-4.jpg"
+    ],
+    "description": "A stunning sunburst design that symbolizes a warm sunrise, with intricate rays radiating outward, laser-cut to create a beautiful, boho-inspired piece of art",
+    "specs": {
+      "material": "Powder-coated metal, premium laser-cut steel with a 3D appearance and matte finish",
+      "color": "Matte black",
+      "dimensions": { "width": 18, "height": 18, "unit": "inch" },
+      "weight": "1.2kg"
+    },
+    "rating": 4.5,
+    "reviews": [
+      { "name": "Ananya", "comment": "Beautiful piece, high quality!", "rating": 5 },
+      { "name": "Rohit", "comment": "Looks stunning on my wall.", "rating": 4 }
+    ],
+    "category": "Boho",
+    "similarIds": [2, 3, 4]
+  },
+  {
+    "id": 2,
+    "name": "Butterfly Web, Beautiful Home Decor",
+    "price": 4499,
+    "currency": "INR",
+    "images": [
+      "/assets/products/butterflyweb/bw-1.png",
+      "/assets/products/butterflyweb/bw-2.png",
+      "/assets/products/butterflyweb/bw-3.png"
+    ],
+    "description": "A pretty design of butterflies in a web showcasing the true meaning of beauty, radiating grace and harmony in every delicate curve.",
+    "specs": {
+      "material": "Powder-coated metal, premium laser-cut steel with a 3D appearance and matte finish",
+      "color": "Matte black",
+      "dimensions": { "width": 45, "height": 30, "unit": "inch" },
+      "weight": "2.2kg"
+    },
+    "rating": 4.7,
+    "reviews": [
+      { "name": "Priya", "comment": "Absolutely gorgeous and elegant!", "rating": 5 },
+      { "name": "Karan", "comment": "Adds a classy touch to my living room.", "rating": 4 }
+    ],
+    "category": "Nature",
+    "similarIds": [1, 3, 5]
+  },
+  {
+    "id": 3,
+    "name": "Elegant Elephant, Graceful Wall Decor",
+    "price": 3499,
+    "currency": "INR",
+    "images": [
+      "/assets/products/elephant/ele-1.png",
+      "/assets/products/elephant/ele-2.png",
+      "/assets/products/elephant/ele-3.png"
+    ],
+    "description": "An elephant walking with grace and elegance, symbolizing strength and calmness, radiating charm and artistic craftsmanship.",
+    "specs": {
+      "material": "Powder-coated metal, premium laser-cut steel with a 3D appearance and matte finish",
+      "color": "Matte black",
+      "dimensions": { "width": 26, "height": 28, "unit": "inch" },
+      "weight": "1.9kg"
+    },
+    "rating": 4.5,
+    "reviews": [
+      { "name": "Neha", "comment": "Love this elephant piece! So elegant.", "rating": 5 },
+      { "name": "Siddharth", "comment": "Perfect gift for my parents!", "rating": 4 }
+    ],
+    "category": "Animals",
+    "similarIds": [1, 2, 4, 5]
+  },
+  {
+    "id": 4,
+    "name": "Birds Flying off a Tree Cage, Freedom Wall Decor",
+    "price": 3799,
+    "currency": "INR",
+    "images": [
+      "/assets/products/birdcage/bc-1.png",
+      "/assets/products/birdcage/bc-2.png",
+      "/assets/products/birdcage/bc-3.png"
+    ],
+    "description": "Birds fleeing from the cage of a round tree, radiating freedom and hope — a piece that brings a serene, liberating aura to your walls.",
+    "specs": {
+      "material": "Powder-coated metal, premium laser-cut steel with a 3D appearance and matte finish",
+      "color": "Matte black",
+      "dimensions": { "width": 24, "height": 26, "unit": "inch" },
+      "weight": "1.3kg"
+    },
+    "rating": 4.4,
+    "reviews": [
+      { "name": "Aarav", "comment": "Incredible design, love the symbolism.", "rating": 5 },
+      { "name": "Megha", "comment": "Adds positivity and freedom vibes!", "rating": 4 }
+    ],
+    "category": "Abstract",
+    "similarIds": [1, 2, 3, 5]
+  },
+  {
+    "id": 5,
+    "name": "Meditating Buddha, Spiritual Home Decor",
+    "price": 3999,
+    "currency": "INR",
+    "images": [
+      "/assets/products/buddha/bd-1.png",
+      "/assets/products/buddha/bd-2.png",
+      "/assets/products/buddha/bd-3.png"
+    ],
+    "description": "A Buddha meditating peacefully under a tree before sunrise, radiating calmness, balance, and spiritual serenity.",
+    "specs": {
+      "material": "Powder-coated metal, premium laser-cut steel with a 3D appearance and matte finish",
+      "color": "Matte black",
+      "dimensions": { "width": 26, "height": 24, "unit": "inch" },
+      "weight": "1.8kg"
+    },
+    "rating": 4.7,
+    "reviews": [
+      { "name": "Ishita", "comment": "This piece brings such peace to my space.", "rating": 5 },
+      { "name": "Rahul", "comment": "Looks divine and very premium.", "rating": 4 }
+    ],
+    "category": "Spiritual",
+    "similarIds": [1, 2, 3, 4]
+  }
+]
