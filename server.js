@@ -27,7 +27,9 @@ const app = express();
 app.use(cors({
     origin: [
         process.env.CLIENT_URL,
-        "http://localhost:3000"
+        "http://localhost:3000",
+        "https://dreamdecor-frontend-4rq9r6m48-adityas-projects-1dfa4ec8.vercel.app",
+        "https://dreamdecor-frontend.vercel.app",
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
