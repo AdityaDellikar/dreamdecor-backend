@@ -24,25 +24,9 @@ connectDB();
 const app = express();
 
 // CORS MUST BE FIRST
-const allowedOrigins = [
-  "http://localhost:3000",
-  "http://localhost:5173",
-  "https://dreamdecor-frontend.vercel.app",
- // process.env.CLIENT_URL,
-];
-
 app.use(
   cors({
-    origin: function (origin, callback) {
-      // Allow requests with no origin (like Postman, server-to-server)
-      if (!origin) return callback(null, true);
-
-      if (allowedOrigins.includes(origin)) {
-        return callback(null, true);
-      } else {
-        return callback(new Error("Not allowed by CORS"));
-      }
-    },
+    origin: true,
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
